@@ -1,0 +1,46 @@
+h1 {
+    color: red;
+    font-weight: bolder;
+}
+
+nav {
+    
+    text-align-last: justify;
+    padding: 20px;
+    margin: 20px;
+    font-weight: bolder;
+    font-size: xxx-large;
+}
+
+.class-1 {
+    text-align-last: center;
+    padding: 20px;
+    margin: 20px;
+    font-weight: bolder;
+    font-size: xxx-large;
+}
+
+.class-2 {
+    text-align-last: justify;
+    padding: 20px;
+    margin: 20px;
+    font-weight: bolder;
+    font-size: xxx-large;
+}
+
+.class-3 {
+    text-align-last: right;
+    padding: 20px;
+    margin: 20px;
+    font-weight: bolder;
+    font-size: xxx-large;
+}
+
+.class-4 {
+    font-style: bold;
+    font-size: xx-large;
+    padding: 20px;
+    margin: 20px;
+    font-weight: bolder;
+    font-size: xxx-large;
+}
